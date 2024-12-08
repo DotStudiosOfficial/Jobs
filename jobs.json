@@ -3,6 +3,9 @@
         "name": "Sr.Developer I",
         "work": "Coding",
         "project": "General",
-        "difficulty": "Mid"
+        "difficulty": "Mid",
+        "requirements": {
+            
+        }
     }
 ]
