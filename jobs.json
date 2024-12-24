@@ -1,11 +1,13 @@
 [
     {
         "name": "Sr.Developer I",
-        "work": "Coding",
+        "work": "Web Coding",
         "project": "General",
         "difficulty": "Mid",
-        "requirements": {
-            
-        }
+        "requirements": [
+            "Know HTML, CSS and JS or TS",
+            "Know Astro Framework",
+            "Ability to work in a team"
+        ]
     }
 ]
