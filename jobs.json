@@ -1,11 +1,22 @@
 [
     {
         "name": "Sr.Developer I",
-        "work": "Web Coding",
+        "work": "Web FrontBackend",
         "project": "General",
         "difficulty": "Mid",
         "requirements": [
-            "Know HTML, CSS and JS or TS",
+            "Know how to use params, dynamic rooting, ecc...",
+            "Know Astro Framework",
+            "Ability to work in a team"
+        ]
+    },
+    {
+        "name": "Sr.Developer I",
+        "work": "Web FrontEnd",
+        "project": "General",
+        "difficulty": "Mid",
+        "requirements": [
+            "Be skilled in HTML, CSS and JS or TS",
             "Know Astro Framework",
             "Ability to work in a team"
         ]
